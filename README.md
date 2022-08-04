@@ -5,3 +5,28 @@ Today your instructor will lead you through the process of creating a penny flip
 ### Attributions
 
 Penny images come from [The Spruce Crafts](https://www.thesprucecrafts.com/describe-coins-to-collectors-768487). 
+
+
+
+variable needed:
+    heads
+    tails
+    percentage of results
+    number of results
+
+headsroll = 0
+    tails = 1
+
+HTML = assigning numerical values to tails and heads
+    css = to get the image
+    js = functioning of the html
+
+DOM elements
+    Button 
+    document.addEventListner(for button clicks)
+    Changing state items = results
+
+How to track results console.log
+How to display statistics 
+    if there is only 2 variables then we only need to divide by 2 
+    make sure not to divide by 0
